@@ -12,8 +12,8 @@ szívvel vallunk meg.
 
 _[RH:17.o.]_
 
-...hogy Isten nemcsak másoknak, hanem nekem is bűnbocsánatot, megigazulást és
-életet ajándékoz kegyelemből, egyedül Krisztus érdeméért.
+> ...hogy Isten nemcsak másoknak, hanem nekem is bűnbocsánatot, megigazulást és
+> életet ajándékoz kegyelemből, egyedül Krisztus érdeméért.
 
 
 ## 3. Mit jelent a hit megvallása?
@@ -24,9 +24,11 @@ Ha Isten kegyelméből már megismertem az igazságot, mondjam el másoknak is! 
 rajtam Jézus Krisztus segített, vezessek hozzá másokat is! Ne tartson vissza
 ettől az se, hogy az evangélium szokatlan, idegen sok embernek.
 
-_[1Pt.3.15-16]_ ...legyetek készen mindenkor számot adni minkenkinek, aki
-számadást kér tőletek a bennetek élő reménységről. Ezt pedig szelíden és
-tisztelettudóan, jó lelkiismerettel tegyétek...
+_[1Pt.3.15-16]_
+
+> ...legyetek készen mindenkor számot adni minkenkinek, aki
+> számadást kér tőletek a bennetek élő reménységről. Ezt pedig szelíden és
+> tisztelettudóan, jó lelkiismerettel tegyétek...
 
 
 ## 4. A keresztyénség melyik ágához tartozunk?
@@ -36,133 +38,130 @@ Református.
 
 ## 5. Mi a Biblia központi üzenete?
 
-_[Jn.3.16]_ Mert úgy szerette Isten a világot, hogy egyszülött Fiát adta, hogy
-aki hisz őbenne, el ne vesszen, hanem örök élete legyen.
+_[Jn.3.16]_
+
+> Mert úgy szerette Isten a világot, hogy egyszülött Fiát adta, hogy aki hisz
+> őbenne, el ne vesszen, hanem örök élete legyen.
 
 
 ## 6. Hogyan szól Isten törvénye?
 
-_[2Moz.20.2]_ Én, az Úr, vagyok a te Istened, aki kihoztalak Egyiptom
-földjéről, a szolgaság házából.
+_[2Moz.20.2-17]_
 
-_[2Moz.20.3]_ Ne legyen más istened rajtam kívül!
-
-_[2Moz.20.4]_ Ne csinálj magadnak semmiféle istenszobrot azoknak a képmására,
-amik fenn az égben, lenn a földön, vagy a föld alatt a vízben vannak.
-
-_[2Moz.20.5]_ Ne imádd és ne tiszteld azokat, mert én, az Úr, a te Istened,
-féltőn szerető Isten vagyok! Megbüntetem az atyák bűnéért a fiakat is harmad-
-és negyedízig, ha gyűlölnek engem.
-
-_[2Moz.20.6]_ De irgalmasan bánok ezerízig azokkal, akik szeretnek engem, és
-megtartják parancsolataimat.
-
-_[2Moz.20.7]_ Ne mondd ki hiába Istenednek, az Úrnak
-a nevét, mert nem hagyja az Úr büntetés nélkül, ha valaki hiába mondja ki a
-nevét!
-
-_[2Moz.20.8]_ Emlékezzél meg a nyugalom napjáról, és szenteld meg azt!
-
-_[2Moz.20.9]_ Hat napon át dolgozz, és végezd mindenféle munkádat!
-
-_[2Moz.20.10]_ De a hetedik nap a te Istenednek, az Úrnak
-nyugalomnapja. Semmiféle munkát ne végezz azon, se te, se fiad, se leányod, se
-szolgád, se szolgálód, se állatod, se a kapuidon belül tartózkodó jövevény.
-
-_[2Moz.20.11]_ Mert hat nap alatt alkotta meg az Úr az eget, a földet, a tengert
-és mindent, ami azokban van, a hetedik napon pedig megpihent. Azért megáldotta
-és megszentelte az Úr a nyugalom napját.
-
-_[2Moz.20.12]_ Tiszteld apádat és anyádat, hogy hosszú ideig élhess azon a földön,
-amelyet Istened, az Úr ad neked!
-
-_[2Moz.20.13]_ Ne ölj!
-
-_[2Moz.20.14]_ Ne paráználkodj!
-
-_[2Moz.20.15]_ Ne lopj!
-
-_[2Moz.20.16]_ Ne tanúskodj hamisan felebarátod ellen!
-
-_[2Moz.20.17]_ Ne kívánd felebarátod házát! Ne kívánd felebarátod feleségét, se
-szolgáját, se szolgálóját, se ökrét, se szamarát, és semmit, ami a
-felebarátodé!
+> 1. Én, az Úr, vagyok a te Istened, aki kihoztalak Egyiptom
+> földjéről, a szolgaság házából.
+> Ne legyen más istened rajtam kívül!
+>
+> 2. Ne csinálj magadnak semmiféle istenszobrot azoknak a képmására,
+> amik fenn az égben, lenn a földön, vagy a föld alatt a vízben vannak.
+> Ne imádd és ne tiszteld azokat, mert én, az Úr, a te Istened,
+> féltőn szerető Isten vagyok! Megbüntetem az atyák bűnéért a fiakat is
+> harmad- és negyedízig, ha gyűlölnek engem.
+> De irgalmasan bánok ezerízig azokkal, akik szeretnek engem, és
+> megtartják parancsolataimat.
+>
+> 3. Ne mondd ki hiába Istenednek, az Úrnak  a nevét, mert nem hagyja az
+> Úr büntetés nélkül, ha valaki hiába mondja ki a nevét!
+>
+> 4. Emlékezzél meg a nyugalom napjáról, és szenteld meg azt!
+> Hat napon át dolgozz, és végezd mindenféle munkádat!
+> De a hetedik nap a te Istenednek, az Úrnak nyugalomnapja. Semmiféle
+> munkát ne végezz azon, se te, se fiad, se leányod, se szolgád,
+> se szolgálód, se állatod, se a kapuidon belül tartózkodó jövevény.
+> Mert hat nap alatt alkotta meg az Úr az eget, a földet, a tengert
+> és mindent, ami azokban van, a hetedik napon pedig megpihent. Azért
+> megáldotta és megszentelte az Úr a nyugalom napját.
+>
+> 5. Tiszteld apádat és anyádat, hogy hosszú ideig élhess azon a földön,
+> amelyet Istened, az Úr ad neked!
+>
+> 6. Ne ölj!
+>
+> 7. Ne paráználkodj!
+>
+> 8. Ne lopj!
+>
+> 9. Ne tanúskodj hamisan felebarátod ellen!
+>
+> 10. Ne kívánd felebarátod házát! Ne kívánd felebarátod feleségét, se
+> szolgáját, se szolgálóját, se ökrét, se szamarát, és semmit, ami a
+> felebarátodé!
 
 
 ## 7. Hogyan foglalta össze Jézus Krisztus Isten törvényét?
 
 _[Mt.22.37-40]_
 
-    Szeresd az Urat, a te Istenedet teljes szívedből, teljes lelkedből és
-    teljes elmédből.
-
-    Ez az első és a nagy parancsolat.
-
-    A második hasonló ehhez: Szeresd felebarátodat, mint magadat.
-
-    E két parancsolattól függ az egész törvény és a próféták.
+> Szeresd az Urat, a te Istenedet teljes szívedből, teljes lelkedből és
+> teljes elmédből.
+>
+> Ez az első és a nagy parancsolat.
+>
+> A második hasonló ehhez: Szeresd felebarátodat, mint magadat.
+>
+> E két parancsolattól függ az egész törvény és a próféták.
 
 
 ## 8. Milyen szavakkal tanított az Úr Jézus Krisztus imádkozni?
 
 _[Mt.6.9-13]_
 
-    Mi Atyánk, aki a mennyekben vagy, szenteltessék meg a te neved,
-    jöjjön el a te országod, legyen meg a te akaratod, amint a mennyben,
-    úgy a földön is;
-
-    mindennapi kenyerünket add meg nékünk ma, és bocsásd meg vétkeinket,
-    miképpen mi is megbocsátunk az ellenünk vétkezőknek;
-
-    és ne vigy minket kísértésbe, de szabadíts meg a gonosztól; mert
-    tied az ország, a hatalom és a dicsőség mindörökké. Ámen.
+> Mi Atyánk, aki a mennyekben vagy, szenteltessék meg a te neved,
+> jöjjön el a te országod, legyen meg a te akaratod, amint a mennyben,
+> úgy a földön is;
+>
+> mindennapi kenyerünket add meg nékünk ma, és bocsásd meg vétkeinket,
+> miképpen mi is megbocsátunk az ellenünk vétkezőknek;
+>
+> és ne vigy minket kísértésbe, de szabadíts meg a gonosztól; mert
+> tied az ország, a hatalom és a dicsőség mindörökké. Ámen.
 
 
 ## 9. Mi tenéked életedben és halálodban egyetlenegy vigasztalásod?
 
 _[HK.1]_
 
-    Az, hogy testestől-lelkestől, mind életemben, mind halálomban, nem a
-    magamé, hanem az én hűséges Megváltómnak, Jézus Krisztusnak a tulajdona
-    vagyok,
-
-    - aki az Ő drága vérével minden bűnömért tökéletesen eleget tett
-      s engem az ördögnek minden hatalmából megszabadított.
-
-    - és úgy megőriz, hogy mennyei Atyámnak akarata nélkül egy hajszál
-      sem eshetik le fejemről,
-
-    - sőt inkább minden az én üdvősségemre kell, hogy szolgáljon.
-
-    - Ezért Szentlelke által is engem az örök élet felől biztosít
-
-    - és szív szerint késszé és hajlandóvá tesz arra, hogy ezentúl Őneki éljek.
+> Az, hogy testestől-lelkestől, mind életemben, mind halálomban, nem a
+> magamé, hanem az én hűséges Megváltómnak, Jézus Krisztusnak a tulajdona
+> vagyok,
+>
+> - aki az Ő drága vérével minden bűnömért tökéletesen eleget tett
+>   s engem az ördögnek minden hatalmából megszabadított.
+>
+> - és úgy megőriz, hogy mennyei Atyámnak akarata nélkül egy hajszál
+>   sem eshetik le fejemről,
+>
+> - sőt inkább minden az én üdvősségemre kell, hogy szolgáljon.
+>
+> - Ezért Szentlelke által is engem az örök élet felől biztosít
+>
+> - és szív szerint késszé és hajlandóvá tesz arra, hogy ezentúl Őneki éljek.
 
 
 ## 10. Hány dolgot kell tudnod a végből, hogy ebben a vigasztalásban boldogan élhess és boldogan halhass meg?
 
 _[HK.2]_
 
-    Hármat:
-    - először, hogy mily nagy az én bűnöm és nyomorúságom;
-    - másodszor, hogy mily módon szabadít meg Isten minden bűnömből és
-      nyomorúságomból;
-    - harmadszor, hogy milyen hálával tartozom neki e megszabadításért.
+> Hármat:
+> - először, hogy mily nagy az én bűnöm és nyomorúságom;
+> - másodszor, hogy mily módon szabadít meg Isten minden bűnömből és
+>   nyomorúságomból;
+> - harmadszor, hogy milyen hálával tartozom neki e megszabadításért.
 
 
 ## 11. Hogyan hangzik az Apostoli Hitvallás?
 
-    Hiszek egy Istenben, mindenható Atyában, mennynek és földnek teremtőjében.
-
-    És Jézus Krisztusban, az Ő egyszülött fiában, a mi Urunkban, aki
-    fogantatott Szentlélektől, született Szűz Máriától, szenvedett Poncius
-    Pilátus alatt, megfeszítették, meghalt és eltemették. Alászállt a poklokra,
-    harmadnapon feltámadt a halottak közül, fölment a mennybe, ott ül a
-    mindenható Atya Isten jobbján, onnan jön el ítélni élőket és holtakat.
-
-    Hiszek Szentlélekben. Hiszem az egyetemes keresztyén anyaszentegyházat, a
-    szentek közösségét, a bűnök bocsánatát, a test feltámadását és az örök
-    életet. Ámen.
+> Hiszek egy Istenben, mindenható Atyában, mennynek és földnek teremtőjében.
+>
+> És Jézus Krisztusban, az Ő egyszülött fiában, a mi Urunkban, aki
+> fogantatott Szentlélektől, született Szűz Máriától, szenvedett Poncius
+> Pilátus alatt, megfeszítették, meghalt és eltemették. Alászállt a poklokra,
+> harmadnapon feltámadt a halottak közül, fölment a mennybe, ott ül a
+> mindenható Atya Isten jobbján, onnan jön el ítélni élőket és holtakat.
+>
+> Hiszek Szentlélekben. Hiszem az egyetemes keresztyén anyaszentegyházat, a
+> szentek közösségét, a bűnök bocsánatát, a test feltámadását és az örök
+> életet. Ámen.
 
 
 ## 12. Hogyan ismerheti meg az ember Istent igazán?
@@ -196,7 +195,7 @@ hanem magát az életet.
 
 _[Jn.6.66]_
 
-    azok a beszédek, amelyeket én szóltam néktek, lélek és élet.
+> azok a beszédek, amelyeket én szóltam néktek, lélek és élet.
 
 ## 14. Mit tudunk Isten írott kijelentéséről?
 
@@ -219,8 +218,8 @@ Emberek írták -- le, de szerzője maga az önmagát kijelentő Isten. A teljes
 
 _[2Pt.1.21]_
 
-    Mert sohasem ember akaratából származott a prófécia, hanem a
-    Szentlélektől indíttatva szólaltak meg az Istentől küldött emberek.
+> Mert sohasem ember akaratából származott a prófécia, hanem a
+> Szentlélektől indíttatva szólaltak meg az Istentől küldött emberek.
 
 A Biblia írói úgy dolgoztak, hogy Isten lelke adta a gondolatokat és a
 kifejezéseket elméjükbe. Jézus kettős természetéhez hasonlóan gondolhatunk a
@@ -245,8 +244,9 @@ Atya a fiúban a Szentlélek által. Atya, Fiú, Szentlélek.
 Lényében egy, személyében vagy formájában három. Isten a küldő és a küldött, a
 megbízó és megbízott egy személyben.
 
-_[Ézs.61.1-2]_ 
+_[Ézs.61.1-2]_
 
+> 
 
 ## 16. Hogyan lehet Atyánkká Isten?
 
@@ -334,14 +334,14 @@ _[RH:142-143.o.]_
 
 _[HK.54]_
 
-    Hiszem, hogy Isten Fia
-    A világ kezdetétől fogva annak végéig
-    az egész emberi nemzetségből
-    Szentlelke és Igéje által az igaz hit egységében
-    magának egy kiválasztott gyülekezetet gyűjt egybe,
-    azt oltalmazza és megőrzi.
-    Hiszem, hogy annak én is élő tagja vagyok,
-    és örökké az is maradok.
+> Hiszem, hogy Isten Fia
+> A világ kezdetétől fogva annak végéig
+> az egész emberi nemzetségből
+> Szentlelke és Igéje által az igaz hit egységében
+> magának egy kiválasztott gyülekezetet gyűjt egybe,
+> azt oltalmazza és megőrzi.
+> Hiszem, hogy annak én is élő tagja vagyok,
+> és örökké az is maradok.
 
 
 ## 27. Mi a küldetése az egyháznak?
@@ -353,13 +353,13 @@ _[RH:147-148.o.]_
 
 _[Mt.28.18-20]_
 
-    Nekem adatott minden hatalom mennyen és földön.
-
-    Menjetek el tehát, tegyetek tanítvánnyá minden népet,
-    megkeresztelve őket az Atyának, a Fiúnak és a Szentléleknek nevében,
-
-    tanítva őket, hogy megtartsák mindazt, amit én parancsoltam nektek;
-    és íme, én veletek vagyok minden napon a világ végezetéig.
+> Nekem adatott minden hatalom mennyen és földön.
+>
+> Menjetek el tehát, tegyetek tanítvánnyá minden népet,
+> megkeresztelve őket az Atyának, a Fiúnak és a Szentléleknek nevében,
+>
+> tanítva őket, hogy megtartsák mindazt, amit én parancsoltam nektek;
+> és íme, én veletek vagyok minden napon a világ végezetéig.
 
 
 ## 29. Mi a keresztség tartalma?
@@ -371,19 +371,19 @@ _[RH:151-152.o.]_
 
 _[1Kor.11.23-26]_
 
->   Mert én az Úrtól vettem, amit át is adtam néktek, hogy az Úr
->   Jézus azon az éjszakán, amelyen elárultatott, vette a kenyeret,
+> Mert én az Úrtól vettem, amit át is adtam néktek, hogy az Úr
+> Jézus azon az éjszakán, amelyen elárultatott, vette a kenyeret,
 >
->   és hálát adva megtörte, és ezt mondotta: „Vegyétek, egyétek, ez
->   az én testem, amely tiérettetek megtöretik, ezt cselekedjétek az én
->   emlékezetemre.”
+> és hálát adva megtörte, és ezt mondotta: „Vegyétek, egyétek, ez
+> az én testem, amely tiérettetek megtöretik, ezt cselekedjétek az én
+> emlékezetemre.”
 >
->   Hasonlóképpen vette a poharat is, miután vacsoráltak, és ezt
->   mondta: „E pohár amaz új szövetség az én vérem által, ezt cselekedjétek,
->   valamennyiszer isszátok az én emlékezetemre.”
+> Hasonlóképpen vette a poharat is, miután vacsoráltak, és ezt
+> mondta: „E pohár amaz új szövetség az én vérem által, ezt cselekedjétek,
+> valamennyiszer isszátok az én emlékezetemre.”
 >
->   Mert valamennyiszer eszitek e kenyeret, és isszátok e poharat, az
->   Úrnak halálát hirdessétek, amíg eljön.
+> Mert valamennyiszer eszitek e kenyeret, és isszátok e poharat, az
+> Úrnak halálát hirdessétek, amíg eljön.
 
 
 ## 31. Mi az Úrvacsora értelme?
@@ -394,7 +394,7 @@ A kenyér és a bor Jézus megtöretett testét és kiontatott vérét jelképez
 
 _[Jn.6.54]_
 
->   Aki eszi az én testemet és issza az én véremet, annak örök élete van.
+> Aki eszi az én testemet és issza az én véremet, annak örök élete van.
 
 1. Mindenekelőtt Jézus halálára, annak bűnbocsánatot szerző erejére emlékeztet
    minket. Ha megvalljuk bűneinket, Isten megbocsátja azokat.
