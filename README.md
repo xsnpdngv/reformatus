@@ -332,14 +332,16 @@ _[RH:123-126.o.]_
 
 _[RH:142-143.o.]_
 
-_[HK.54]_ Hiszem, hogy Isten Fia  
-A világ kezdetétől fogva annak végéig  
-az egész emberi nemzetségből  
-Szentlelke és Igéje által az igaz hit egységében  
-magának egy kiválasztott gyülekezetet gyűjt egybe,  
-azt oltalmazza és megőrzi.  
-Hiszem, hogy annak én is élő tagja vagyok,  
-és örökké az is maradok.
+_[HK.54]_
+
+    Hiszem, hogy Isten Fia
+    A világ kezdetétől fogva annak végéig
+    az egész emberi nemzetségből
+    Szentlelke és Igéje által az igaz hit egységében
+    magának egy kiválasztott gyülekezetet gyűjt egybe,
+    azt oltalmazza és megőrzi.
+    Hiszem, hogy annak én is élő tagja vagyok,
+    és örökké az is maradok.
 
 
 ## 27. Mi a küldetése az egyháznak?
