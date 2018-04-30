@@ -238,6 +238,9 @@ tanulságunkra.
 
 _[RH:21-25.o.]_
 
+A mennynek és földnek teremtője. Öröktől fogva való, és az egész világ az Ő
+teremtő akaratára állott elő.
+
 Atya a fiúban a Szentlélek által. Atya, Fiú, Szentlélek.
 Lényében egy, személyében vagy formájában három. Isten a küldő és a küldött, a
 megbízó és megbízott egy személyben.
@@ -252,6 +255,9 @@ _[RH:40-41.o.]_
 ## 17. Mit jelent az, hogy Ő a világ teremtője?
 
 _[RH:45,50.o.]_
+
+A mennynek és földnek teremtője. Öröktől fogva való, és az egész világ az Ő
+teremtő akaratára állott elő.
 
 ## 18. Mit jelent az, hogy Ő Gondviselő Isten?
 
@@ -288,6 +294,15 @@ _[RH:123-126.o.]_
 ## 26. Mit vallunk az egyházról?
 
 _[RH:142-143.o.]_
+
+_[HK.54]_ Hiszem, hogy Isten Fia  
+A világ kezdetétől fogva annak végéig  
+az egész emberi nemzetségből  
+Szentlelke és Igéje által az igaz hit egységében  
+magának egy kiválasztott gyülekezetet gyűjt egybe,  
+azt oltalmazza és megőrzi.  
+Hiszem, hogy annak én is élő tagja vagyok,  
+és örökké az is maradok.
 
 ## 27. Mi a küldetése az egyháznak?
 
@@ -328,6 +343,11 @@ _[1Kor.11.26]_ Mert valamennyiszer eszitek e kenyeret, és isszátok e poharat, 
 ## 31. Mi az Úrvacsora értelme?
 
 _[RH:157-159.o.]_
+
+A kenyér és a bor Jézus megtöretett testét és kiontatott vérét jelképezik.
+
+_[Jn.6.54]_ Aki eszi az én testemet és issza az én véremet, annak örök élete
+van.
 
 ## 32. Mi a református istentisztelet célja?
 
