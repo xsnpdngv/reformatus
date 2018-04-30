@@ -32,8 +32,8 @@ Református.
 
 ## 5. Mi a Biblia központi üzenete?
 
-_Jn.3.16_ Mert úgy szerette Isten a világot, hogy egyszülött Fiát adta, hogy aki hisz
-őbenne, el ne vesszen, hanem örök élete legyen.
+_Jn.3.16_ Mert úgy szerette Isten a világot, hogy egyszülött Fiát adta, hogy
+aki hisz őbenne, el ne vesszen, hanem örök élete legyen.
 
 
 ## 6. Hogyan szól Isten törvénye?
@@ -101,18 +101,18 @@ _Mt.22.40_ E két parancsolattól függ az egész törvény és a próféták.
 
 ## 8. Milyen szavakkal tanított az Úr Jézus Krisztus imádkozni?
 
-_Mt.6.9_ „Ti tehát így imádkozzatok: Mi Atyánk, aki a mennyekben vagy,
+_[Mt.6.9]_ „Ti tehát így imádkozzatok: Mi Atyánk, aki a mennyekben vagy,
 szenteltessék meg a te neved,
 
-_Mt.6.10_ jöjjön el a te országod, legyen meg a te akaratod, amint a mennyben,
+_[Mt.6.10]_ jöjjön el a te országod, legyen meg a te akaratod, amint a mennyben,
 úgy a földön is;
 
-_Mt.6.11_ mindennapi kenyerünket add meg nékünk ma,
+_[Mt.6.11]_ mindennapi kenyerünket add meg nékünk ma,
 
-_Mt.6.12_ és bocsásd meg vétkeinket, miképpen mi is megbocsátunk az ellenünk
+_[Mt.6.12]_ és bocsásd meg vétkeinket, miképpen mi is megbocsátunk az ellenünk
 vétkezőknek;
 
-_Mt.6.13_ és ne vigy minket kísértésbe, de szabadíts meg a gonosztól; mert
+_[Mt.6.13]_ és ne vigy minket kísértésbe, de szabadíts meg a gonosztól; mert
 tied az ország, a hatalom és a dicsőség mindörökké. Ámen.”
 
 
@@ -136,14 +136,14 @@ le fejemről,
 
 ## 10. Hány dolgot kell tudnod a végből, hogy ebben a vigasztalásban boldogan élhess és boldogan halhass meg?
 
-_HK.2_ Hármat:
+_Heidelbergi Káté.2_ Hármat:
 
 -- először, hogy mily nagy az én bűnöm és nyomorúságom;
 
 -- másodszor, hogy mily módon szabadít meg Isten minden bűnömből és
 nyomorúságomból;
 
--- harmadszor, hoy milyen hálával tartozom neki e megszabadításért.
+-- harmadszor, hogy milyen hálával tartozom neki e megszabadításért.
 
 
 ## 11. Hogyan hangzik az Apostoli Hitvallás?
@@ -156,7 +156,7 @@ megfeszítették, meghalt és eltemették. Alászállt a poklokra, harmadnapon
 feltámadt a halottak közül, fölment a mennybe, ott ül a mindenható Atya Isten
 jobbján, onnan jön el ítélni élőket és holtakat.
 
-Hiszek Szentléltekben. Hiszem az egyetemes keresztyén anyaszentegyházat, a
+Hiszek Szentlélekben. Hiszem az egyetemes keresztyén anyaszentegyházat, a
 szentek közösségét, a bűnök bocsánatát, a test feltámadását és az örök életet.
 Ámen.
 
@@ -169,7 +169,7 @@ A reformátori tanítás Isten Igéjének három alakját különbözteti meg:
 
 1. Isten önmagát és a világgal való szándékát legteljesebben Jézus Krisztus
    személyében és munkájában jelentette ki. Isten kijelentése tehát Jézus. Ő a
-   kijelentett vagy testté lett Ige (Jn.1.1-14).
+   kijelentett vagy testté lett Ige _Jn.1.1-14_.
 
 2. Azt azonban, amit Isten az emberért tett, írásba is foglaltatta. Isten
    kijelentésének írott okmánya a Szentírás, a Biblia: az írott Ige.
@@ -183,13 +183,59 @@ A reformátori tanítás Isten Igéjének három alakját különbözteti meg:
 
 _RH:5.o._
 
+Hogy az Istentől elszakadt, magára maradt, sok nyomorúságával küszködő ember
+újra személyes kapcsolatba kerüljön Istenével a hit által. Hogy az őt
+megszólító Istenben felismerje mennyei Atyját, aki után szíve mélyén vágyódik,
+aki feltétel nélkül, mindent megelőzően, kezdeményezően szereti őt, akinek a
+kijelentése, Igéje, beszéde nem csak fontos információkat jelent szmámára,
+hanem magát az életet.
+
+_Jn.6.66_ azok a beszédek, amelyeket én szóltam néktek, lélek és élet.
+
 ## 14. Mit tudunk Isten írott kijelentéséről?
 
 _RH:6-9.o._
 
+Isten igéjének másodlagos alakja az írott ige, a Szentírás, a Biblia. Két fő
+részből, az Ó- és az Újszövetségből áll. Az Ószövetség 39, az Újszövetség 27
+könyvből, tehát összesen 66 könyvből áll. Az Ószövetség eredeti nyelve a
+héber, az Újszövetségé a görög. Magyar nyelvre először Károli Gáspár gönci
+református esperes fordította le a teljes Bibliát, amely 1590-ben jelent meg
+Vizsolyban. Ma már közel 2000 nyelven elérhető.
+
+Előbb történnie kellett valaminek, azután azt feljegyezték. Az elsődleges ige
+maga Krisztus és a róla szóló prófétai-apostoli prédikáció. Ennek írásba
+foglalt okmánya a Biblia, s mint ilyen, alap és kiindulópont a mai igehirdetés
+számára. A Biblia tehát _kánon_: mérték, amihez igazodunk.
+
+Emberek írták -- le, de szerzője maga az önmagát kijelentő Isten. A teljes
+írás Istentől ihletett:
+
+_2Pt.1.21_ Mert sohasem ember akaratából származott a prófécia, hanem a
+Szentlélektől indíttatva szólaltak meg az Istentől küldött emberek.
+
+A Biblia írói úgy dolgoztak, hogy Isten lelke adta a gondolatokat és a
+kifejezéseket elméjükbe. Jézus kettős természetéhez hasonlóan gondolhatunk a
+Bibliára is úgy, hogy kettős természete van: minden részletében és teljes
+egészében isteni, mégis minden részletében és egészében emberi mű, és e
+kettősség elemeit nem lehet elkülöníteni egymástól.
+
+A Biblia ihletett voltából következik, hogy nem csak Istenről szól, hanem
+Isten maga szól általa. A Biblia tehát önmagában hordozza hitelessége
+bizonyítékát. A Biblia írói nem történelemkönyvet írtak, hanem üzenetet a mi
+tanulságunkra.
+
+
 ## 15. Kicsoda Isten? Hogyan jelentette ki magát számunkra?
 
 _RH:21-25.o._
+
+Atya a fiúban a Szentlélek által. Atya, Fiú, Szentlélek.
+Lényében egy, személyében vagy formájában három. Isten a küldő és a küldött, a
+megbízó és megbízott egy személyben.
+
+_Ézs.61.1-2_ 
+
 
 ## 16. Hogyan lehet Atyánkká Isten?
 
@@ -241,15 +287,35 @@ _RH:147-148.o._
 
 ## 28. Hogyan szól a keresztség szereztetési igéje?
 
-_Mt.28.18-20_
+_Mt.28.18_ Jézus hozzájuk lépett, és így szólt: „Nekem adatott minden hatalom
+mennyen és földön.
+
+_Mt.28.19_ Menjetek el tehát, tegyetek tanítvánnyá minden népet, megkeresztelve
+őket az Atyának, a Fiúnak és a Szentléleknek nevében,
+
+_Mt.28.20_ tanítva őket, hogy megtartsák mindazt, amit én parancsoltam nektek;
+és íme, én veletek vagyok minden napon a világ végezetéig.”
 
 ## 29. Mi a keresztség tartalma?
 
 _RH:151-152.o._
 
+
 ## 30. Hogyan szól az Úrvacsora szereztetés igéje?
 
-_1Kor.11.23-26_
+_1Kor.11.23_ Mert én az Úrtól vettem, amit át is adtam néktek, hogy az Úr Jézus
+azon az éjszakán, amelyen elárultatott, vette a kenyeret,
+
+_1Kor.11.24_ és hálát adva megtörte, és ezt mondotta: „Vegyétek, egyétek, ez az
+én testem, amely tiérettetek megtöretik, ezt cselekedjétek az én
+emlékezetemre.”
+
+_1Kor.11.25_ Hasonlóképpen vette a poharat is, miután vacsoráltak, és ezt
+mondta: „E pohár amaz új szövetség az én vérem által, ezt cselekedjétek,
+valamennyiszer isszátok az én emlékezetemre.”
+
+_1Kor.11.26_ Mert valamennyiszer eszitek e kenyeret, és isszátok e poharat, az
+Úrnak halálát hirdessétek, amíg eljön.
 
 ## 31. Mi az Úrvacsora értelme?
 
