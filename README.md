@@ -42,15 +42,13 @@ aki hisz őbenne, el ne vesszen, hanem örök élete legyen.
 
 ## 6. Hogyan szól Isten törvénye?
 
-_[2Moz.20.2]_ Én, az Úr, vagyok a te Istened, aki kihoztalak Egyiptom földjéről, a
-szolgaság házából.
+_[2Moz.20.2]_ Én, az Úr, vagyok a te Istened, aki kihoztalak Egyiptom
+földjéről, a szolgaság házából.
 
-_[2Moz.20.3]_ Ne legyen más istened rajtam
-kívül!
+_[2Moz.20.3]_ Ne legyen más istened rajtam kívül!
 
-_[2Moz.20.4]_ Ne csinálj magadnak semmiféle istenszobrot azoknak a
-képmására, amik fenn az égben, lenn a földön, vagy a föld alatt a vízben
-vannak.
+_[2Moz.20.4]_ Ne csinálj magadnak semmiféle istenszobrot azoknak a képmására,
+amik fenn az égben, lenn a földön, vagy a föld alatt a vízben vannak.
 
 _[2Moz.20.5]_ Ne imádd és ne tiszteld azokat, mert én, az Úr, a te Istened,
 féltőn szerető Isten vagyok! Megbüntetem az atyák bűnéért a fiakat is harmad-
@@ -93,80 +91,78 @@ felebarátodé!
 
 ## 7. Hogyan foglalta össze Jézus Krisztus Isten törvényét?
 
-_[Mt.22.37]_ Jézus így válaszolt: „Szeresd az Urat, a te Istenedet teljes
-szívedből, teljes lelkedből és teljes elmédből.
+_[Mt.22.37-40]_
 
-_[Mt.22.38]_ Ez az első és a nagy parancsolat.
+    Szeresd az Urat, a te Istenedet teljes szívedből, teljes lelkedből és
+    teljes elmédből.
 
-_[Mt.22.39]_ A második hasonló ehhez: Szeresd felebarátodat, mint magadat.
+    Ez az első és a nagy parancsolat.
 
-_[Mt.22.40]_ E két parancsolattól függ az egész törvény és a próféták.
+    A második hasonló ehhez: Szeresd felebarátodat, mint magadat.
+
+    E két parancsolattól függ az egész törvény és a próféták.
 
 
 ## 8. Milyen szavakkal tanított az Úr Jézus Krisztus imádkozni?
 
-_[Mt.6.9]_ „Ti tehát így imádkozzatok: Mi Atyánk, aki a mennyekben vagy,
-szenteltessék meg a te neved,
+_[Mt.6.9-13]_
 
-_[Mt.6.10]_ jöjjön el a te országod, legyen meg a te akaratod, amint a mennyben,
-úgy a földön is;
+    Mi Atyánk, aki a mennyekben vagy, szenteltessék meg a te neved,
+    jöjjön el a te országod, legyen meg a te akaratod, amint a mennyben,
+    úgy a földön is;
 
-_[Mt.6.11]_ mindennapi kenyerünket add meg nékünk ma,
+    mindennapi kenyerünket add meg nékünk ma, és bocsásd meg vétkeinket,
+    miképpen mi is megbocsátunk az ellenünk vétkezőknek;
 
-_[Mt.6.12]_ és bocsásd meg vétkeinket, miképpen mi is megbocsátunk az ellenünk
-vétkezőknek;
-
-_[Mt.6.13]_ és ne vigy minket kísértésbe, de szabadíts meg a gonosztól; mert
-tied az ország, a hatalom és a dicsőség mindörökké. Ámen.”
+    és ne vigy minket kísértésbe, de szabadíts meg a gonosztól; mert
+    tied az ország, a hatalom és a dicsőség mindörökké. Ámen.
 
 
 ## 9. Mi tenéked életedben és halálodban egyetlenegy vigasztalásod?
 
 _[HK.1]_
 
-Az, hogy életemben és halálomban, mind testestől és lelkestől nem a magamé,
-hanem az én hűséges megváltómnak, Jézus Krisztusnak a tulajdona vagyok,
+    Az, hogy testestől-lelkestől, mind életemben, mind halálomban, nem a
+    magamé, hanem az én hűséges Megváltómnak, Jézus Krisztusnak a tulajdona
+    vagyok,
 
--- aki az Ő drága vérével minden bűnömért tökéletesen eleget tett s engem az
-ördögnek minden hatalmából megszabadított.
+    - aki az Ő drága vérével minden bűnömért tökéletesen eleget tett
+      s engem az ördögnek minden hatalmából megszabadított.
 
--- és úgy megőriz, hogy mennyei Atyámnak akarata nélkül egy haszál sem eshetik
-le fejemről,
+    - és úgy megőriz, hogy mennyei Atyámnak akarata nélkül egy hajszál
+      sem eshetik le fejemről,
 
--- sőt inkább minden az én üdvősségemre kell, hogy szolgáljon.
+    - sőt inkább minden az én üdvősségemre kell, hogy szolgáljon.
 
--- Ezért Szentlelke által is engem az örök élet felől biztosít
+    - Ezért Szentlelke által is engem az örök élet felől biztosít
 
--- és szív szerint késszé és hajlandóvá tesz arra, hogy ezentúl Őneki éljek.
+    - és szív szerint késszé és hajlandóvá tesz arra, hogy ezentúl Őneki éljek.
 
 
 ## 10. Hány dolgot kell tudnod a végből, hogy ebben a vigasztalásban boldogan élhess és boldogan halhass meg?
 
 _[HK.2]_
 
-Hármat:
-
--- először, hogy mily nagy az én bűnöm és nyomorúságom;
-
--- másodszor, hogy mily módon szabadít meg Isten minden bűnömből és
-nyomorúságomból;
-
--- harmadszor, hogy milyen hálával tartozom neki e megszabadításért.
+    Hármat:
+    - először, hogy mily nagy az én bűnöm és nyomorúságom;
+    - másodszor, hogy mily módon szabadít meg Isten minden bűnömből és
+      nyomorúságomból;
+    - harmadszor, hogy milyen hálával tartozom neki e megszabadításért.
 
 
 ## 11. Hogyan hangzik az Apostoli Hitvallás?
 
-Hiszek egy Istenben, mindenható Atyában, mennynek és földnek teremtőjében.
+    Hiszek egy Istenben, mindenható Atyában, mennynek és földnek teremtőjében.
 
-És Jézus Krisztusban, az Ő egyszülött fiában, a mi Urunkban, aki fogantatott
-Szentlélektől, született Szűz Máriától, szenvedett Poncius Pilátus alatt,
-megfeszítették, meghalt és eltemették. Alászállt a poklokra, harmadnapon
-feltámadt a halottak közül, fölment a mennybe, ott ül a mindenható Atya Isten
-jobbján, onnan jön el ítélni élőket és holtakat.
+    És Jézus Krisztusban, az Ő egyszülött fiában, a mi Urunkban, aki
+    fogantatott Szentlélektől, született Szűz Máriától, szenvedett Poncius
+    Pilátus alatt, megfeszítették, meghalt és eltemették. Alászállt a poklokra,
+    harmadnapon feltámadt a halottak közül, fölment a mennybe, ott ül a
+    mindenható Atya Isten jobbján, onnan jön el ítélni élőket és holtakat.
 
-Hiszek Szentlélekben. Hiszem az egyetemes keresztyén anyaszentegyházat, a
-szentek közösségét, a bűnök bocsánatát, a test feltámadását és az örök életet.
-Ámen.
+    Hiszek Szentlélekben. Hiszem az egyetemes keresztyén anyaszentegyházat, a
+    szentek közösségét, a bűnök bocsánatát, a test feltámadását és az örök
+    életet. Ámen.
 
 
 ## 12. Hogyan ismerheti meg az ember Istent igazán?
@@ -198,7 +194,9 @@ aki feltétel nélkül, mindent megelőzően, kezdeményezően szereti őt, akin
 kijelentése, Igéje, beszéde nem csak fontos információkat jelent szmámára,
 hanem magát az életet.
 
-_[Jn.6.66]_ azok a beszédek, amelyeket én szóltam néktek, lélek és élet.
+_[Jn.6.66]_
+
+    azok a beszédek, amelyeket én szóltam néktek, lélek és élet.
 
 ## 14. Mit tudunk Isten írott kijelentéséről?
 
@@ -219,8 +217,10 @@ számára. A Biblia tehát _kánon_: mérték, amihez igazodunk.
 Emberek írták -- le, de szerzője maga az önmagát kijelentő Isten. A teljes
 írás Istentől ihletett:
 
-_[2Pt.1.21]_ Mert sohasem ember akaratából származott a prófécia, hanem a
-Szentlélektől indíttatva szólaltak meg az Istentől küldött emberek.
+_[2Pt.1.21]_
+
+    Mert sohasem ember akaratából származott a prófécia, hanem a
+    Szentlélektől indíttatva szólaltak meg az Istentől küldött emberek.
 
 A Biblia írói úgy dolgoztak, hogy Isten lelke adta a gondolatokat és a
 kifejezéseket elméjükbe. Jézus kettős természetéhez hasonlóan gondolhatunk a
@@ -351,14 +351,15 @@ _[RH:147-148.o.]_
 
 ## 28. Hogyan szól a keresztség szereztetési igéje?
 
-_[Mt.28.18]_ Jézus hozzájuk lépett, és így szólt: „Nekem adatott minden hatalom
-mennyen és földön.
+_[Mt.28.18-20]_
 
-_[Mt.28.19]_ Menjetek el tehát, tegyetek tanítvánnyá minden népet,
-megkeresztelve őket az Atyának, a Fiúnak és a Szentléleknek nevében,
+    Nekem adatott minden hatalom mennyen és földön.
 
-_[Mt.28.20]_ tanítva őket, hogy megtartsák mindazt, amit én parancsoltam nektek;
-és íme, én veletek vagyok minden napon a világ végezetéig.”
+    Menjetek el tehát, tegyetek tanítvánnyá minden népet,
+    megkeresztelve őket az Atyának, a Fiúnak és a Szentléleknek nevében,
+
+    tanítva őket, hogy megtartsák mindazt, amit én parancsoltam nektek;
+    és íme, én veletek vagyok minden napon a világ végezetéig.
 
 
 ## 29. Mi a keresztség tartalma?
@@ -368,19 +369,21 @@ _[RH:151-152.o.]_
 
 ## 30. Hogyan szól az Úrvacsora szereztetés igéje?
 
-_[1Kor.11.23]_ Mert én az Úrtól vettem, amit át is adtam néktek, hogy az Úr
-Jézus azon az éjszakán, amelyen elárultatott, vette a kenyeret,
+_[1Kor.11.23-26]_
 
-_[1Kor.11.24]_ és hálát adva megtörte, és ezt mondotta: „Vegyétek, egyétek, ez
-az én testem, amely tiérettetek megtöretik, ezt cselekedjétek az én
-emlékezetemre.”
-
-_[1Kor.11.25]_ Hasonlóképpen vette a poharat is, miután vacsoráltak, és ezt
-mondta: „E pohár amaz új szövetség az én vérem által, ezt cselekedjétek,
-valamennyiszer isszátok az én emlékezetemre.”
-
-_[1Kor.11.26]_ Mert valamennyiszer eszitek e kenyeret, és isszátok e poharat, az
-Úrnak halálát hirdessétek, amíg eljön.
+>   Mert én az Úrtól vettem, amit át is adtam néktek, hogy az Úr
+>   Jézus azon az éjszakán, amelyen elárultatott, vette a kenyeret,
+>
+>   és hálát adva megtörte, és ezt mondotta: „Vegyétek, egyétek, ez
+>   az én testem, amely tiérettetek megtöretik, ezt cselekedjétek az én
+>   emlékezetemre.”
+>
+>   Hasonlóképpen vette a poharat is, miután vacsoráltak, és ezt
+>   mondta: „E pohár amaz új szövetség az én vérem által, ezt cselekedjétek,
+>   valamennyiszer isszátok az én emlékezetemre.”
+>
+>   Mert valamennyiszer eszitek e kenyeret, és isszátok e poharat, az
+>   Úrnak halálát hirdessétek, amíg eljön.
 
 
 ## 31. Mi az Úrvacsora értelme?
@@ -389,8 +392,9 @@ _[RH:157-159.o.]_
 
 A kenyér és a bor Jézus megtöretett testét és kiontatott vérét jelképezik.
 
-_[Jn.6.54]_ Aki eszi az én testemet és issza az én véremet, annak örök élete
-van.
+_[Jn.6.54]_
+
+>   Aki eszi az én testemet és issza az én véremet, annak örök élete van.
 
 1. Mindenekelőtt Jézus halálára, annak bűnbocsánatot szerző erejére emlékeztet
    minket. Ha megvalljuk bűneinket, Isten megbocsátja azokat.
