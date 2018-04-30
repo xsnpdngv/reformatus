@@ -5,38 +5,38 @@
 
 Görög eredetű szó, azt jelenti: Krisztushoz tartozó, Krisztuskövető, krisztusi
 ember. Kezdetben gúnynév volt, de lényegre törő kifejezés, amit ma hálás
-sz1vvel vallunk meg.
+szívvel vallunk meg.
 
 
-## 2. Mi a keresztyén hit magva? (RH: 17.o.)
+## 2. Mi a keresztyén hit magva?
 
-...hogy Isten nemcsak másoknak, hanem nekem is bűnbocsánatot, megigazulást és
-életet ajándékoz kegyelemből, egyedül Krisztus érdeméért.
-
-
-## 3. Mit jelent a hit megvallása? (RH: 18-19.o.)
-
-Ha Isten kegyelméből már megismertem az igazságot, mondjam el másoknak is! Ha
-rajtam Jézus Krisztus segített, vezessek hozzá másokat is! Ne tartson vissza
-ettől az se, hogy az evangélium szokatlan, idegen sok embernek.
-
-"...legyetek készen mindenkor számot adni minkenkinek, aki számadást kér
-tőletek a bennetek élő reménységről. Ezt pedig szelíden és tisztelettudóan, jó
-lelkiismerettel tegyétek..." (1Pt 3,15-16)
+_RH:17.o._ ...hogy Isten nemcsak másoknak, hanem nekem is bűnbocsánatot,
+megigazulást és életet ajándékoz kegyelemből, egyedül Krisztus érdeméért.
 
 
-## 4. A keresztyénség melyik ágához tartozunk? (RH: 146.o.)
+## 3. Mit jelent a hit megvallása?
+
+_RH:18-19.o._ Ha Isten kegyelméből már megismertem az igazságot, mondjam el
+másoknak is! Ha rajtam Jézus Krisztus segített, vezessek hozzá másokat is! Ne
+tartson vissza ettől az se, hogy az evangélium szokatlan, idegen sok embernek.
+
+_1Pt.3.15-16_ ...legyetek készen mindenkor számot adni minkenkinek, aki
+számadást kér tőletek a bennetek élő reménységről. Ezt pedig szelíden és
+tisztelettudóan, jó lelkiismerettel tegyétek...
+
+
+## 4. A keresztyénség melyik ágához tartozunk?
 
 Református.
 
 
-## 5. Mi a Biblia központi üzenete? (Jn 3,16)
+## 5. Mi a Biblia központi üzenete?
 
 _Jn.3.16_ Mert úgy szerette Isten a világot, hogy egyszülött Fiát adta, hogy aki hisz
 őbenne, el ne vesszen, hanem örök élete legyen.
 
 
-## 6. Hogyan szól Isten törvénye? (2Móz 20,2-17)
+## 6. Hogyan szól Isten törvénye?
 
 _2Moz.20.2_ Én, az Úr, vagyok a te Istened, aki kihoztalak Egyiptom földjéről, a
 szolgaság házából.
@@ -87,7 +87,7 @@ szolgáját, se szolgálóját, se ökrét, se szamarát, és semmit, ami a
 felebarátodé!
 
 
-## 7. Hogyan foglalta össze Jézus Krisztus Isten törvényét? (Mt 22,37-40)
+## 7. Hogyan foglalta össze Jézus Krisztus Isten törvényét?
 
 _Mt.22.37_ Jézus így válaszolt: „Szeresd az Urat, a te Istenedet teljes
 szívedből, teljes lelkedből és teljes elmédből.
@@ -99,7 +99,7 @@ _Mt.22.39_ A második hasonló ehhez: Szeresd felebarátodat, mint magadat.
 _Mt.22.40_ E két parancsolattól függ az egész törvény és a próféták.
 
 
-## 8. Milyen szavakkal tanított az Úr Jézus Krisztus imádkozni? (Mt 6,9-13)
+## 8. Milyen szavakkal tanított az Úr Jézus Krisztus imádkozni?
 
 _Mt.6.9_ „Ti tehát így imádkozzatok: Mi Atyánk, aki a mennyekben vagy,
 szenteltessék meg a te neved,
@@ -116,10 +116,10 @@ _Mt.6.13_ és ne vigy minket kísértésbe, de szabadíts meg a gonosztól; mert
 tied az ország, a hatalom és a dicsőség mindörökké. Ámen.”
 
 
-## 9. Mi tenéked életedben és halálodban egyetlenegy vigasztalásod? (HK 1.k.)
+## 9. Mi tenéked életedben és halálodban egyetlenegy vigasztalásod?
 
-Az, hogy életemben és halálomban, mind testestől és lelkestől nem a magamé,
-hanem az én hűséges megváltómnak, Jézus Krisztusnak a tulajdona vagyok,
+_HK.1_ Az, hogy életemben és halálomban, mind testestől és lelkestől nem a
+magamé, hanem az én hűséges megváltómnak, Jézus Krisztusnak a tulajdona vagyok,
 
 -- aki az Ő drága vérével minden bűnömért tökéletesen eleget tett s engem az
 ördögnek minden hatalmából megszabadított.
@@ -129,14 +129,16 @@ le fejemről,
 
 -- sőt inkább minden az én üdvősségemre kell, hogy szolgáljon.
 
--- Ezért szentlelke által is engem az örök élet felől biztosít
+-- Ezért Szentlelke által is engem az örök élet felől biztosít
 
 -- és szív szerint késszé és hajlandóvá tesz arra, hogy ezentúl Őneki éljek.
 
 
-## 10. Hány dolgot kell tudnod a végből, hogy ebben a vigasztalásban boldogan élhess és boldogan halhass meg? (HK 2.k.)
+## 10. Hány dolgot kell tudnod a végből, hogy ebben a vigasztalásban boldogan élhess és boldogan halhass meg?
 
-Hármat: először, hogy mily nagy az én bűnöm és nyomorúságom;
+_HK.2_ Hármat:
+
+-- először, hogy mily nagy az én bűnöm és nyomorúságom;
 
 -- másodszor, hogy mily módon szabadít meg Isten minden bűnömből és
 nyomorúságomból;
@@ -159,7 +161,9 @@ szentek közösségét, a bűnök bocsánatát, a test feltámadását és az ö
 Ámen.
 
 
-## 12. Hogyan ismerheti meg az ember Istent igazán? (RH 3-4.o.)
+## 12. Hogyan ismerheti meg az ember Istent igazán?
+
+_RH:3-4.o._
 
 A reformátori tanítás Isten Igéjének három alakját különbözteti meg:
 
@@ -175,44 +179,86 @@ A reformátori tanítás Isten Igéjének három alakját különbözteti meg:
    hogy hirdessék ezt minden népnek. Ez a hirdetett Ige.
 
 
-## 13. Miért jelentette ki magát Isten? (RH 5.o.)
+## 13. Miért jelentette ki magát Isten?
 
-## 14. Mit tudunk Isten írott kijelentéséről? (RH 6-9.o.)
+_RH:5.o._
 
-## 15. Kicsoda Isten? Hogyan jelentette ki magát számunkra? (RH 21-25.o.)
+## 14. Mit tudunk Isten írott kijelentéséről?
 
-## 16. Hogyan lehet Atyánkká Isten? (RH 40-41.o.)
+_RH:6-9.o._
 
-## 17. Mit jelent az, hogy Ő a világ teremtője? (RH 45,50.o.)
+## 15. Kicsoda Isten? Hogyan jelentette ki magát számunkra?
 
-## 18. Mit jelent az, hogy Ő Gondviselő Isten? (RH 53-55.o.)
+_RH:21-25.o._
 
-## 19. Kicsoda az ember? Mit mond erről Isten kijelentése? (RH 63-66.o.)
+## 16. Hogyan lehet Atyánkká Isten?
 
-## 20. Kicsoda az Úr Jézus Krisztus? (RH 81,87-94.o.)
+_RH:40-41.o._
 
-## 21. Mi az oka és célja Jézus Krisztus szenvedésének? (RH 95,99.o.)
+## 17. Mit jelent az, hogy Ő a világ teremtője?
 
-## 22. Mit használ nekünk az Úr Jézus Krisztus feltámadása és mennybemenetele? (RH 105,108.o.)
+_RH:45,50.o._
 
-## 23. Miért jön vissza az Úr Jézus Krisztus? (RH 112.o.)
+## 18. Mit jelent az, hogy Ő Gondviselő Isten?
 
-## 24. Kicsoda a Szentlélek? (RH 117,119.o.)
+_RH:53-55.o._
 
-## 25. Mit munkál a szívünkben a Szentlélek és hová vezet el minket? (RH 123-126.o.)
+## 19. Kicsoda az ember? Mit mond erről Isten kijelentése?
 
-## 26. Mit vallunk az egyházról? (RH 142-143.o.)
+_RH:63-66.o._
 
-## 27. Mi a küldetése az egyháznak? (RH 147-148.o.)
+## 20. Kicsoda az Úr Jézus Krisztus?
 
-## 28. Hogyan szól a keresztség szereztetési igéje? (Mt 28,18-20)
+_RH:81,87-94.o._
 
-## 29. Mi a keresztség tartalma? (RH 151-152.o.)
+## 21. Mi az oka és célja Jézus Krisztus szenvedésének?
 
-## 30. Hogyan szól az Úrvacsora szereztetés igéje? (1Kor 11,23-26)
+_RH:95,99.o._
 
-## 31. Mi az Úrvacsora értelme? (RH 157-159.o.)
+## 22. Mit használ nekünk az Úr Jézus Krisztus feltámadása és mennybemenetele?
 
-## 32. Mi a református istentisztelet célja? (RH 163-164.o.)
+_RH:105,108.o._
 
-## 33. Melyek a református kegyesség alapelemei? (RH 170-175.o.)
+## 23. Miért jön vissza az Úr Jézus Krisztus?
+
+_RH:112.o._
+
+## 24. Kicsoda a Szentlélek?
+
+_RH:117,119.o._
+
+## 25. Mit munkál a szívünkben a Szentlélek és hová vezet el minket?
+
+_RH:123-126.o._
+
+## 26. Mit vallunk az egyházról?
+
+_RH:142-143.o._
+
+## 27. Mi a küldetése az egyháznak?
+
+_RH:147-148.o._
+
+## 28. Hogyan szól a keresztség szereztetési igéje?
+
+_Mt.28.18-20_
+
+## 29. Mi a keresztség tartalma?
+
+_RH:151-152.o._
+
+## 30. Hogyan szól az Úrvacsora szereztetés igéje?
+
+_1Kor.11.23-26_
+
+## 31. Mi az Úrvacsora értelme?
+
+_RH:157-159.o._
+
+## 32. Mi a református istentisztelet célja?
+
+_RH:163-164.o._
+
+## 33. Melyek a református kegyesség alapelemei?
+
+_RH:170-175.o._
