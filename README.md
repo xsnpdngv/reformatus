@@ -252,6 +252,7 @@ _[Ézs.61.1-2]_
 
 _[RH:40-41.o.]_
 
+
 ## 17. Mit jelent az, hogy Ő a világ teremtője?
 
 _[RH:45,50.o.]_
@@ -259,37 +260,73 @@ _[RH:45,50.o.]_
 A mennynek és földnek teremtője. Öröktől fogva való, és az egész világ az Ő
 teremtő akaratára állott elő.
 
+
 ## 18. Mit jelent az, hogy Ő Gondviselő Isten?
 
 _[RH:53-55.o.]_
+
 
 ## 19. Kicsoda az ember? Mit mond erről Isten kijelentése?
 
 _[RH:63-66.o.]_
 
+
 ## 20. Kicsoda az Úr Jézus Krisztus?
 
 _[RH:81,87-94.o.]_
+
 
 ## 21. Mi az oka és célja Jézus Krisztus szenvedésének?
 
 _[RH:95,99.o.]_
 
+
 ## 22. Mit használ nekünk az Úr Jézus Krisztus feltámadása és mennybemenetele?
 
 _[RH:105,108.o.]_
+
 
 ## 23. Miért jön vissza az Úr Jézus Krisztus?
 
 _[RH:112.o.]_
 
+Ítélni élőket és holtakat. Mert amilyen biztos a halál, olyan biztos, hogy
+egyszer mindnyájunkat elszámoltat Krisztus.
+
+Isten szeretete nem azt jelenti, hogy a bűnt bűntetlenül hagyja, hanem azt,
+hogy a megbánt bűnt megbocsátja. Ezt az ítéletet azonban az a Jézus Krisztus
+hajtja végre, _[HK.52]_ "Aki előbb érettem Isten ítélőszéke elé állt, és rólam
+minden kárhoztatást elvett." Aki ezt igazán hiszi, aki bűneinek bocsánatát
+tőle elfogadta, az _[Jn.5.24]_ "...ítéletre sem megy, hanem átment a halálból
+az életbe."
+
+
 ## 24. Kicsoda a Szentlélek?
 
 _[RH:117,119.o.]_
 
+Isten maga. A Szentháromság harmadik személye, akit az Atyával és a Fiúval
+egyenlőképpen imádunk. Az Atya Isten felettünk, a Fiú Isten mellettünk, a
+Szentlélek pedig Isten bennünk. Élő személy, aki tanít, vezet, meggyőz,
+bátorít, s akit meg lehet szomorítani is.
+
+A Szentlélek láthatatlanul van jelen jelen a Földön és a Krisztusban hívő
+emberekben.
+
+Olyan, mint a szél: láthatatlan, de mindent meg tud mozgatni,
+teljesen szabad, de óriási erőt tud kifejteni.
+
+Olyan, mint a tűz: csak az Ő világosságánál ismerheti meg egy ember igazán
+önmagát, csak a Szentlélek világítja meg Isten Igéjét, a helyes utat.
+
+Eső, ami megöntözi a tikkadt földet, hogy ott élet támadjon és sok gyümölcs
+teremjen.
+
+
 ## 25. Mit munkál a szívünkben a Szentlélek és hová vezet el minket?
 
 _[RH:123-126.o.]_
+
 
 ## 26. Mit vallunk az egyházról?
 
@@ -304,20 +341,23 @@ azt oltalmazza és megőrzi.
 Hiszem, hogy annak én is élő tagja vagyok,  
 és örökké az is maradok.
 
+
 ## 27. Mi a küldetése az egyháznak?
 
 _[RH:147-148.o.]_
+
 
 ## 28. Hogyan szól a keresztség szereztetési igéje?
 
 _[Mt.28.18]_ Jézus hozzájuk lépett, és így szólt: „Nekem adatott minden hatalom
 mennyen és földön.
 
-_[Mt.28.19]_ Menjetek el tehát, tegyetek tanítvánnyá minden népet, megkeresztelve
-őket az Atyának, a Fiúnak és a Szentléleknek nevében,
+_[Mt.28.19]_ Menjetek el tehát, tegyetek tanítvánnyá minden népet,
+megkeresztelve őket az Atyának, a Fiúnak és a Szentléleknek nevében,
 
 _[Mt.28.20]_ tanítva őket, hogy megtartsák mindazt, amit én parancsoltam nektek;
 és íme, én veletek vagyok minden napon a világ végezetéig.”
+
 
 ## 29. Mi a keresztség tartalma?
 
@@ -326,11 +366,11 @@ _[RH:151-152.o.]_
 
 ## 30. Hogyan szól az Úrvacsora szereztetés igéje?
 
-_[1Kor.11.23]_ Mert én az Úrtól vettem, amit át is adtam néktek, hogy az Úr Jézus
-azon az éjszakán, amelyen elárultatott, vette a kenyeret,
+_[1Kor.11.23]_ Mert én az Úrtól vettem, amit át is adtam néktek, hogy az Úr
+Jézus azon az éjszakán, amelyen elárultatott, vette a kenyeret,
 
-_[1Kor.11.24]_ és hálát adva megtörte, és ezt mondotta: „Vegyétek, egyétek, ez az
-én testem, amely tiérettetek megtöretik, ezt cselekedjétek az én
+_[1Kor.11.24]_ és hálát adva megtörte, és ezt mondotta: „Vegyétek, egyétek, ez
+az én testem, amely tiérettetek megtöretik, ezt cselekedjétek az én
 emlékezetemre.”
 
 _[1Kor.11.25]_ Hasonlóképpen vette a poharat is, miután vacsoráltak, és ezt
@@ -339,6 +379,7 @@ valamennyiszer isszátok az én emlékezetemre.”
 
 _[1Kor.11.26]_ Mert valamennyiszer eszitek e kenyeret, és isszátok e poharat, az
 Úrnak halálát hirdessétek, amíg eljön.
+
 
 ## 31. Mi az Úrvacsora értelme?
 
@@ -349,9 +390,27 @@ A kenyér és a bor Jézus megtöretett testét és kiontatott vérét jelképez
 _[Jn.6.54]_ Aki eszi az én testemet és issza az én véremet, annak örök élete
 van.
 
+1. Mindenekelőtt Jézus halálára, annak bűnbocsánatot szerző erejére emlékeztet
+   minket. Ha megvalljuk bűneinket, Isten megbocsátja azokat.
+
+2. Nem a meghalt Krisztusra emlékezünk szomorú szívvel, hanem a feltámadott
+   Urat magasztaljuk örvendező lélekkel. Jézus közösségre lép velünk, és olyan
+   valóságosan élni akar bennünk lelkileg, ahogyan megesszük a falat kenyeret
+   és megisszuk a korty bort, s az eggyé válik a testünkkel.
+
+3. De nem csak magával von közösségre Jézus az Úrvacsorában, hanem egymással
+   is. Szoros egység az úrvacsoráző hívők között, hogy: Isten előtt mindnyájan
+   elveszett bűnösök vagyunk, de Krisztus érdeméért mindnyájunkat szeretettel
+   visszafogad az Atya gyermekeivé.
+
+4. Túlmutat önmagán arra a nagy "vacsorára", arra a végleges, zavartalan,
+   teljes boldog együttlétre, ami a mennyben várja a benne hívőket.
+
+
 ## 32. Mi a református istentisztelet célja?
 
 _[RH:163-164.o.]_
+
 
 ## 33. Melyek a református kegyesség alapelemei?
 
