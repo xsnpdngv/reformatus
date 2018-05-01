@@ -168,6 +168,9 @@ _[HK.2]_
 
 _[RH:3-4.o.]_
 
+Az ember magától nem ismerheti meg Istent, annyit tudhatunk róla, amennyit Ő
+kijelentett magáról Jézusban, a Szentírásban és igehirdetés által.
+
 A reformátori tanítás Isten Igéjének három alakját különbözteti meg:
 
 1. Isten önmagát és a világgal való szándékát legteljesebben Jézus Krisztus
@@ -240,35 +243,141 @@ _[RH:21-25.o.]_
 A mennynek és földnek teremtője. Öröktől fogva való, és az egész világ az Ő
 teremtő akaratára állott elő.
 
-Atya a fiúban a Szentlélek által. Atya, Fiú, Szentlélek.
-Lényében egy, személyében vagy formájában három. Isten a küldő és a küldött, a
-megbízó és megbízott egy személyben.
+Isten úgy jelentette ki magát nekünk, mint Atya a Fiúban a Szentlélek által.
+Ezért a keresztyén hit a Szentháromság-Istenben való hit.
+
+Atya, Fiú, Szentlélek. Lényében egy, személyében, formájában létmódjában
+három. Jézus Isten teljhatalmú küldöttje, akit Isten az Ő Lelkével
+felhatalmazott arra, hogy megvalósítsa az Ő tervét. Isten a küldő és a
+küldött, a megbízó és megbízott egy személyben.
 
 _[Ézs.61.1-2]_
 
-> 
+> Uramnak, az Úrnak lelke nyugszik rajtam, mert felkent engem az Úr.
+> Elküldött, hogy örömhírt vigyek az alázatosaknak, bekötözzem a megtört
+> szíveket, szabadulást hirdessek a foglyoknak, és szabadon bocsátást a
+> megkötözötteknek.
+>
+> Hirdetem az Úr kegyelmének esztendejét, Istenünk bosszúállása napját,
+> vigasztalok minden gyászolót.
+
+_[Lk.10.16]_
+
+> Aki titeket hallgat, engem hallgat...
+
+_[Mt.10.20]_
+
+> ...nem ti vagytok, akik beszéltek, hanem Atyátok Lelke szól általatok
+
+_[Jn.17.3]_
+
+> Az örök élet pedig azt jelenti, hogy ismernek téged...
+
 
 ## 16. Hogyan lehet Atyánkká Isten?
 
 _[RH:40-41.o.]_
+
+Aki szembefordul a maga egész romlott életével s elfogadja Isten megbocsátó
+irgalmát, az lesz a gyermekévé.
+
+Isten másként Atyja Jézusnak, mint nekünk. Ő az Atyától született, minket
+azonban Jézus áldozatáért fogad gyermekévé. Az ember úgy, ahogyan van, nem
+gyermeke Istennek, csak teremtménye, és a bűnös embernek úgy, amint a bűnben
+megszületik, nem Atyja Isten, hanem Teremtője.
+
+Annak az embernek, aki bűnbánattal megvallja Istennek romlottságát, és hittel
+elfogadja az Ő bűnbocsátó kegyelmét, amit Jézus Krisztusban adott, annak új
+természete lesz, mert Jézus természete kezd élni benne, s Jézusért gyermekévé
+fogadja az Atya.
+
+_[Jn.1.12-13]_
+
+> Akik pedig befogadták, azokat felhatalmazta arra, hogy Isten
+> gyermekeivé legyenek; mindazokat, akik hisznek az ő nevében,
+>
+> akik nem vérből, sem a test, sem a férfi akaratából, hanem
+> Istentől születtek.
+
+Ez az újjászületés, erre kivétel nélkül mindenkinek szüksége van, ha Isten
+gyermekévé akar lenni, a jóknak is, a szelíd, becsületes, derék embereknek is.
 
 
 ## 17. Mit jelent az, hogy Ő a világ teremtője?
 
 _[RH:45,50.o.]_
 
-A mennynek és földnek teremtője. Öröktől fogva való, és az egész világ az Ő
-teremtő akaratára állott elő.
+Istern öröktől fogva való, és az egész világ az Ő teremtő akaratára állott
+elő. A teremtés történetés Mózes 1. könyve tartalmazza részletesen. Mindent a
+semmiből teremtett, tehát nem valami meglévőből, mert rajta kívül még nem volt
+semmi. Ez fejezi ki a leghatározottabban azt az igazságot, hogy a világ nem
+azonos Istennel, de önállósága sincs vele szemben, s az anyag sem Istennel
+versenyző ős-tényező. Azt is Ő teremtette, Ő, aki maga: Lélek.
+
+A keresztyén ember teremtés-hite nem megfigyelésen vagy tapasztalaton alapul,
+hanem Isten kijelentésén.
+
+Isten mindent jónak teremtett _[1Moz.1.31]_
+
+> És látta Isten, hogy minden, amit alkotott, igen jó.
+
+A tőle való elszakadás (bűn) miatt romlott el a tökéletes világ az ember
+kezén.
+
+Ő alkotta a rosszat, a bűnt, a Sátánt is, s mint Teremtő ma is Úr felettük. De
+nem Ő teremtette gonosznak őket, mint ahogyan az embert sem Ő alkotta
+bűnösnek, hanem a teremtésben kapott szabadságukkal éltek rosszul. Isten
+azonban elkészítette az embernek a segítséget is, visszatérhet teremtőjéhez,
+nem kell bűnben elpusztulnia.
 
 
 ## 18. Mit jelent az, hogy Ő Gondviselő Isten?
 
 _[RH:53-55.o.]_
 
+Isten nem csak megteremtette a világot, hanem fenntartja és bölcsen
+igazgatja is.
+
+_[Jn.5.17]_
+
+> Az én Atyám mind ez ideig munkálkodik, és én is munkálkodom.
+
+Isten a természet, a történelem Ura, még akkor is, ha egy-egy esemény annak
+ellenkezőjét látszik mutatni. A történelem hajóján sok minden megeshet, de a
+hajó létét és útja végcélját minden lázongás és vihar közepette is Isten
+szabja meg.
+
+_[Mt.10.29-31]_
+
+> „Ugye, a verébnek párja egy fillér, és egy sem esik le közülük a földre
+> Atyátok tudtán kívül?
+>
+> Nektek pedig még a hajatok szálai is mind számon vannak tartva.
+>
+> Ne féljetek tehát: ti sok verébnél értékesebbek vagytok.”
+
+A bűnös ember kísértése az, hogy a gondviselés eszközeiben bízik, nem az
+Úrban.
+
 
 ## 19. Kicsoda az ember? Mit mond erről Isten kijelentése?
 
 _[RH:63-66.o.]_
+
+Az ember Isten teremtménye, akit a saját képmására, hozzá hasonlóvá alkotta,
+hogy uralkodjon a földön és mindenen. Nem isten és nem is isteni lény.
+
+A teremtését szeretettel előkészíti, mintegy saját kezével megformálja, utána
+társat is keres neki. Különös gondja van rá.
+
+Isten az embert a magával való közösségre teremtette. Az ember feladata az,
+hogy képviselje Istent ezen a földön, egy legyen vele bensőleg, ugyanazt
+akarja és munkálja, mint Isten, bízva benn és engedelmeskedve neki.
+
+Isten az embernek kettős feladatot adott: dicsőítse Őt és uralkodjék a
+teremtett világon. Mintegy a látható és láthatatlan világ határára állította
+az embert, ő az egyetlen, aki mindkettőt érzékeli, azzal a céllal, hogy legyen
+engedelmes Urának és így legyen jó gazdája a világnak.
 
 
 ## 20. Kicsoda az Úr Jézus Krisztus?
