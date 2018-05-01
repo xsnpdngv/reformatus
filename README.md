@@ -12,8 +12,8 @@ szívvel vallunk meg.
 
 _[RH:17.o.]_
 
-> ...hogy Isten nemcsak másoknak, hanem nekem is bűnbocsánatot, megigazulást és
-> életet ajándékoz kegyelemből, egyedül Krisztus érdeméért.
+...hogy Isten nemcsak másoknak, hanem nekem is bűnbocsánatot, megigazulást és
+életet ajándékoz kegyelemből, egyedül Krisztus érdeméért.
 
 
 ## 3. Mit jelent a hit megvallása?
@@ -246,7 +246,7 @@ teremtő akaratára állott elő.
 Isten úgy jelentette ki magát nekünk, mint Atya a Fiúban a Szentlélek által.
 Ezért a keresztyén hit a Szentháromság-Istenben való hit.
 
-Atya, Fiú, Szentlélek. Lényében egy, személyében, formájában létmódjában
+Atya, Fiú, Szentlélek. Lényében egy, személyében, formájában, létmódjában
 három. Jézus Isten teljhatalmú küldöttje, akit Isten az Ő Lelkével
 felhatalmazott arra, hogy megvalósítsa az Ő tervét. Isten a küldő és a
 küldött, a megbízó és megbízott egy személyben.
@@ -356,15 +356,20 @@ _[Mt.10.29-31]_
 >
 > Ne féljetek tehát: ti sok verébnél értékesebbek vagytok.”
 
-A bűnös ember kísértése az, hogy a gondviselés eszközeiben bízik, nem az
-Úrban.
+A bűnös ember kísértése az, hogy a Gondviselés eszközeiben bízik, nem az
+Úrban. A Gondviselésbe vetett hit Isten szeretetének állandó megtapasztalása.
+Az a boldog érzés, hogy az életemet nem a vaksors, a végzet irányítja, hanem
+az én mennyei Atyám. A Gondviselésbe vetett hit haszna, hogy megszabadít az
+aggodalmaskodástól, a babonák sötétségétől, az emberektől való félelemtől,
+derűssé és hálássá tesz, valamint reményt ad a szívembe minden körülmény
+között.
 
 
 ## 19. Kicsoda az ember? Mit mond erről Isten kijelentése?
 
 _[RH:63-66.o.]_
 
-Az ember Isten teremtménye, akit a saját képmására, hozzá hasonlóvá alkotta,
+Az ember Isten teremtménye, akit a saját képmására, hozzá hasonlóvá alkotott,
 hogy uralkodjon a földön és mindenen. Nem isten és nem is isteni lény.
 
 A teremtését szeretettel előkészíti, mintegy saját kezével megformálja, utána
@@ -372,27 +377,150 @@ társat is keres neki. Különös gondja van rá.
 
 Isten az embert a magával való közösségre teremtette. Az ember feladata az,
 hogy képviselje Istent ezen a földön, egy legyen vele bensőleg, ugyanazt
-akarja és munkálja, mint Isten, bízva benn és engedelmeskedve neki.
+akarja és munkálja, mint Isten, bízva benne és engedelmeskedve neki.
 
 Isten az embernek kettős feladatot adott: dicsőítse Őt és uralkodjék a
 teremtett világon. Mintegy a látható és láthatatlan világ határára állította
 az embert, ő az egyetlen, aki mindkettőt érzékeli, azzal a céllal, hogy legyen
 engedelmes Urának és így legyen jó gazdája a világnak.
 
+Isten azzal a kockázattal teremtette az embert, hogy szabadságot ajándékozott
+neki. Nem akarta, hogy az ember rabszolga-módon vagy automataként szolgálja
+Őt. Ám az ember visszaélt szabadságával, és engedetlenné vált Isten iránt.
+Kiszolgáltatottá vált a Sátán számára: így már azt csinál vele, amit akar.
+Az ember többé nem képes a jóra, kész minden rosszra.
+
+Isten azt akarta, hogy az ember szabadon szolgálja Őt, ne kényszerből, de az
+rosszul élt ezzel a szabadsággal.
+
+Mivel Istennel való szövetségét felrúgta, embertársaival sem tud szeretetben
+együttélni. Értékrendje én-központú lett, így mindenkiben vetélytársat lát és
+embertelenné vált. Ez az oka a sok kegyetlenségnek, háborúnak, szenvedésnek.
+
 
 ## 20. Kicsoda az Úr Jézus Krisztus?
 
 _[RH:81,87-94.o.]_
+
+Valóságos Isten és valóságos ember. Mint valóságos Isten a Szentháromság
+második személye, mint valóságos ember a mi testvérünk. Az Atya Isten
+egyszülött Fia, a megváltó, aki azért érkezett közénk, hogy átvállalja az
+ítéletet az egész emberiség bűneiért.
+
+_[Jn.1.14]_
+
+> Az Ige testté lett, itt  élt közöttünk és láttuk az ő dicsőségét, mint az
+> Atya egyszülöttjének dicsőségét...
+
+_[Fil.2.6-8]_
+
+> Ő Isten formájában lévén, nem tekintette zsákmánynak, hogy egyenlő Istennel.
+> Hanem dicsőségéről lemondott, szolgai formát vett fel, emberekhez lett
+> hasonlóvá, és magatartásában is embernek bizonyult; megalázta magát, és
+> engedelmessé lett mindhalálig, mégpedig a kereszthalálig.
+
+**Jézus** héber név, azt jelent: Jahve (Isten, az Úr) segítsége, Szabadító. Isten
+parancsolja Józsefnek, hogy ha megszületik a fia, így nevezzék.
+
+_[Mt.1.21]_
+
+> ...akit nevezz el Jézusnak, mert ő szabadítja meg népét bűneiből.
+
+**Krisztus** - a Messiás fordítása, azt jelenti: Felkent. Az Ószövetség idején
+három feladatra, a prófétai, főpapi és királyi tisztségre iktatták be a
+kiválasztott személyt úgy, hogy olajat öntöttek a fejére. Ez jelképesen
+elpecsételte őket Istennek. A felkenetés egyben felhatalmazás is volt: akit
+Isten felkent, az az Ő nevében, az Ő megbízásából, az Ő képviseletében
+végezheti munkáját.
+
+**Isten Fia** - nem úgy fia Jézus Istennek, mint ahogyan nekünk a gyermekeink,
+hiszen Isten Lélek, nem is úgy, ahogyan a benne hívőkről mondja a Szentírás,
+hogy Isten gyermekeivé lesznek.
+
+_[1Jn.4.14-15]_
+
+> ...mi láttuk, és mi teszünk bizonyságot arról, hogy az Atya elküldte a Fiát
+> a világ üdvözítőjéül. Ha valaki vallja, hogy Jézus az Isten Fia, abban az
+> Isten lakik, és ő pedig az Istenben
+
+**Úr** - a Biblia azért nevezi Jézust Úrnak, mert ezzel az Ő istenségét
+állítja. Az Ószövetségben Isten neve Jahve, de ezt a nevet a zsidók nem merték
+kiejteni, ezért helyette Bibliában is mindenhol az Úr áll. Az Úr tehát egyet
+jelent magával a Jahve Isten-névvel.
+
+**Emberfia** - Jézus csaknem mindig így nevezte magát. Ez azonban nem azt
+jelenti, hogy egy embernek a fia, hanem ez is méltóságjelző, és éppen úgy
+Jézus isteni eredetére és megbízatéséra mutat, mint az eddig említett
+kifejezések. Amikor Jézus magát Emberfiának nevezi, hallgatóit a
+_[Dán.7.13-14]_ emlékezteti, ahol ez áll:
+
+> Láttam az éjszakai látomásomban: Jött valaki az ég felhőin, aki emberfiához
+> hasonló volt; az öregkorú felé tartott, és odavezették hozzá. Hatalom,
+> dicsőség is királyi uralom adatott neki, hogy mindenféle nyelvű nép és
+> nemzet őt tisztelje. Hatalma örök hatalom, amely nem múlik el, és királyi
+> uralma nem semmisül meg.
+
+**Megváltó** - Jézus Krisztus Isten Fia a Megváltó. Hitvallás, amely
+elhatárolódik császárok önjelölt istenségétől, megváltói, szabadítói
+voltuktól.
 
 
 ## 21. Mi az oka és célja Jézus Krisztus szenvedésének?
 
 _[RH:95,99.o.]_
 
+Jézus szenvedése testté-lételével kezdődött. Azzal, hogy otthagyta isteni
+dicsőségét, magára vette emberi testünket, megkísértetett mindenben, hozzánk
+hasonlóan. Szenvedés volt tiszta, bűn nélküli lényével végighaladni az
+embervilág tülekedő, képmutató, gyűlölködő sokadalmán.
+
+Jézus ártatlan volt, nem a maga bűneiért kellett meghalnia, hanem azért,
+amiért évszázadokon keresztül olyan sok ártatlan báránynak is meg kellett
+halnia, amiknek a vérét kiontották és testüket elégették az áldozati
+oltárokon.
+
+_[HK.37]_
+
+> ...Ő földi életének egész ideje alatt, különösen pedig annak végén Istennek
+> az egész emberi nemzetség bűne ellen való haragját testében-lelkében
+> elhordozta, éspedig avégre, hogy a szenvedésével mint egyetlenegy engesztelő
+> áldozattal a mi testünket és lelkünket az örök kárhozattól megszabadítsa, és
+> számunkra Istennek kegyelmét, az igazságot (megigazulást), és az örök életet
+> megszerezze.
+
+- Kiengesztelte Isten haragját és megbékéltetett bennünket Istennel.
+- Az Ő vére tesz minden benne hívőt tisztává és igazzá Isten előtt.
+- Jézus vére volt a váltságdíj, amivel kiszabadított a bűn rabszolgaságából.
+- Az Ő haláláért bocsátotta meg Isten minden bűnünket.
+- A kereszten aratott végső győzelmet a Sátán és sötétség minden hatalmassága
+  felett.
+
 
 ## 22. Mit használ nekünk az Úr Jézus Krisztus feltámadása és mennybemenetele?
 
 _[RH:105,108.o.]_
+
+
+1. Feltámadásával legyőzte a halált, hogy minket részesíthessen abban az
+   igazságban (megigazulásban), amelyet nekünk halálával szerzett.
+
+2. Az Isten nélkül élő ember lelkileg halott. Ebből a végzetes állapotból is
+   az élő Krisztus ereje támaszthat fel bennünket. Erre a lelki feltámadásra
+   csak a halál beállta előtt van lehetőség.
+
+3. Krisztus feltámadása az ígéret arra, hogy az Ő visszajövetelekor
+   mi is ugyanígy feltámadunk. A mi feltámadásunk is testben történik, de a
+   dicsőséges test mégis különbözni fog a mostanitól.
+
+Jézus mennybemenetele azért fontos számunkra, mert
+
+- szüntelen esedezhet értünk az Atyánál;
+
+- helyet készít nekünk is, és magához veszi majd mindazokat, akik hisznek
+  Őbenne;
+
+- a földi test korlátaitól megszabadulva, Igéjére és Szentlelkére nézve
+  mindenütt ott lehet, ahol Őt hittel várják és segítségül hívják.
 
 
 ## 23. Miért jön vissza az Úr Jézus Krisztus?
@@ -457,6 +585,21 @@ _[HK.54]_
 
 _[RH:147-148.o.]_
 
+1. Az evangélium hirdetése.
+2. A szeretetszolgálat (diakónia) - érdek és személyválogatás nélkül.
+3. Jel a világban, amely túlmutat önmagán Urára és fejére: Krisztusra, Őt
+   dicsőíti. Arról tanúskodik, hogy Krisztus szerint is lehet élni.
+4. Uráért való szenvedés.
+
+_[Jn.15.18-19]_
+
+> Ha gyűlöl titeket a világ, tudjátok meg, hogy engem előbb gyűlölt, mint
+> titeket.
+>
+> Ha e világból valók volnátok, a világ szeretné a magáét, de mivel nem e
+> világból valók vagytok, hanem én választottalak ki titeket a világból, azért
+> gyűlöl titeket a világ.
+
 
 ## 28. Hogyan szól a keresztség szereztetési igéje?
 
@@ -464,16 +607,61 @@ _[Mt.28.18-20]_
 
 > Nekem adatott minden hatalom mennyen és földön.
 >
-> Menjetek el tehát, tegyetek tanítvánnyá minden népet,
-> megkeresztelve őket az Atyának, a Fiúnak és a Szentléleknek nevében,
+> Menjetek el tehát, tegyetek tanítvánnyá minden népet, megkeresztelve őket az
+> Atyának, a Fiúnak és a Szentléleknek nevében,
 >
-> tanítva őket, hogy megtartsák mindazt, amit én parancsoltam nektek;
-> és íme, én veletek vagyok minden napon a világ végezetéig.
+> tanítva őket, hogy megtartsák mindazt, amit én parancsoltam nektek; és íme,
+> én veletek vagyok minden napon a világ végezetéig.
 
 
 ## 29. Mi a keresztség tartalma?
 
 _[RH:151-152.o.]_
+
+A víz mint a lelki megtisztulás jele jól kifejezte azt, hogy ahogyan a test
+szennyét lemossa a víz, úgy szükségünk van arra, hogy a lelki szennytől,
+bűntől is megtisztuljunk. Keresztelő János is ezt gyakorolta.
+
+Természetesen nem a víz tesz a bűntől tisztává, az csak arra utal, hogy Jézus
+véréért bocsánatot kap az, aki benne hisz. A keresztség tehát jelképes
+megmosatás.
+
+Ugyanakkor azonban tényleges élet-változást is jelent: aki így Krisztusért
+bocsánatot kapott, az többé nem a bűn uralma alatt él, hanem Krisztusnak
+engedelmes életben akar járni. Meghalt a bűnnek és él Krisztusnak.
+
+_[Rom.6.1-8]_
+
+> Mit mondjunk tehát? Maradjunk a bűnben, hogy megnövekedjék a kegyelem?
+>
+> Szó sincs róla! Akik meghaltunk a bűnnek, hogyan élhetnénk még benne?
+>
+> Vagy nem tudjátok, hogy mi, akik a Krisztus Jézusba kereszteltettünk, az ő
+> halálába kereszteltettünk?
+>
+> A keresztség által ugyanis eltemettettünk vele a halálba, hogy amiképpen
+> Krisztus feltámadt a halálból az Atya dicsősége által, úgy mi is új életben
+> járjunk.
+>
+> Ha ugyanis eggyé lettünk vele halálának hasonlóságában, még inkább eggyé
+> leszünk vele a feltámadásának hasonlóságában is.
+>
+> Hiszen tudjuk, hogy a mi óemberünk megfeszíttetett vele, hogy megsemmisüljön
+> a bűn hatalmában álló test, hogy többé ne szolgáljunk a bűnnek.
+>
+> Mert aki meghalt, az megszabadult a bűntől.
+>
+> Ha pedig meghaltunk Krisztussal, hisszük, hogy vele együtt élni is fogunk.
+
+A keresztség nem valamely felekezetbe iktatja be a hívőt, hanem Krisztus
+egyházába. Nem reformátusnak keresztelkedünk, hanem keresztyénnek, Krisztushoz
+tartozónak.
+
+A keresztség azonban nem feltétele az üdvösségnek.
+
+_[Mk.16.16]_
+
+> Aki hisz, és megkeresztelkedik, üdvözül, aki pedig nem hisz, elkárhozik.
 
 
 ## 30. Hogyan szól az Úrvacsora szereztetés igéje?
