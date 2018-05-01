@@ -421,3 +421,28 @@ _[RH:163-164.o.]_
 ## 33. Melyek a református kegyesség alapelemei?
 
 _[RH:170-175.o.]_
+
+
+## További idézetek
+
+_[1Kor.10.12]_
+
+> Aki tehát azt gondolja, hogy áll, vigyázzon, hogy el ne essék!
+
+_[Zso.119.162]_
+
+> Gyönyörködöm a te beszédedben, mint aki nagy nyereséget talált.
+
+_[Lk.12.25]_
+
+> Kicsoda pedig az közületek, aki aggodalmaskodással megnövelheti termetét
+> egy arasszal?
+
+_[Lk.12.7]_
+
+> De néktek a fejetek hajszálai is mind számon vannak.
+
+_[Jn.3.36]_
+
+> Aki hisz a Fiúban, annak örök élete van, aki pedig nem engedelmeskedik a
+> Fiúnak, nem lát majd életet, hanem az Isten haragja marad rajta.
