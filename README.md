@@ -564,6 +564,22 @@ teremjen.
 
 _[RH:123-126.o.]_
 
+Már az is a Szentlélek műve volt, hogy érdeklődni kezdtem Isten iránt.
+
+A Szentlélek teszi érthetővé és személyessé számunkra az evangéliumot, Ő győz
+meg arról, hogy Isten Igéje igaz, Ő ébreszt hitet bennünk, Ő ad bátorságot,
+hogy komolyan vegyük: Isten bocsánata ránk is érvényes. Átalakítja
+gondolkodásunkat, magunktól elfordít és odafordít a másik emberhez. Megtanít
+imádkozni, megtanít örülni Isten ajándékainak és magasztalni Őt nagy
+tetteiért. Szabaddá tesz bűneinktől és rossz szokásainktól. Megszabadít a
+félelemtől, bátorságot ad ahhoz, , hogy másoknak is beszéljünk Isten megváltó
+szeretetéről.
+
+Egy bizonyos úton akar vezetni minket: a bűnből vissza Istenhez, magunkra
+maradt árvaságunkból vissza Krisztushoz, a halálból az életbe.
+
+Az üdvösségre.
+
 
 ## 26. Mit vallunk az egyházról?
 
@@ -775,6 +791,7 @@ _[1Tim.4.7-8]_
 >
 > mert a test sanyargatásának kevés a haszna, a kegyesség pedig mindenre
 > hasznos, mert megvan benne a jelen és a jövendő élet ígérete.
+
 
 ## További idézetek
 
