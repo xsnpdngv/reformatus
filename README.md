@@ -702,7 +702,7 @@ _[Jn.6.54]_
    és megisszuk a korty bort, s az eggyé válik a testünkkel.
 
 3. De nem csak magával von közösségre Jézus az Úrvacsorában, hanem egymással
-   is. Szoros egység az úrvacsoráző hívők között, hogy: Isten előtt mindnyájan
+   is. Szoros egység az úrvacsorázó hívők között, hogy: Isten előtt mindnyájan
    elveszett bűnösök vagyunk, de Krisztus érdeméért mindnyájunkat szeretettel
    visszafogad az Atya gyermekeivé.
 
@@ -714,11 +714,67 @@ _[Jn.6.54]_
 
 _[RH:163-164.o.]_
 
+A hívők együtt imádják Istent, szavát meghallgassák, és annak engedelmeskedve,
+bűneiktől megtisztulva indlujanak tovább másoknak szolgálni. Az istentisztelet
+az élő Istennel való találkozás különösen fontos alkalma. Istent tisztelni
+bárhol és bármikor lehet, de amikor a többi hívővel együtt van és kifejezetten
+azt várja, hogy az Igén keresztül Isten szólítsa meg, azt nem pótolja semmi.
+
+Az istentisztelet Isten dicsőítésének és magasztalásának közös alkalma a
+gyülekezet számára. Az istentisztelet célja az, hogy a végére megváltozzunk,
+más ember jöjjön ki, mint aki bement.
+
 
 ## 33. Melyek a református kegyesség alapelemei?
 
 _[RH:170-175.o.]_
 
+A kegyesség az Istennel való kapcsolatunk ápolása. Annak, aki a bűnből már
+visszatért, mindennél fontosabb, hogy vele állandó, szoros kapcsolatban
+maradjon.
+
+Az istenfélő ember élete hasonlít egy kerékhez. Ennek a keréknek a középpontja
+Jézus Krisztus, négy küllője pedig, ami teherbíróvá teszi: Isten Igéje, az
+imádság, a közösség és a szolgálat.
+
+_[Mt.4.4]_
+
+> Nemcsak kenyérrel él az ember, hanem minden igével, amely Isten szájából
+> jön.
+
+_[Mt.6.5-8]_
+
+> „Amikor imádkoztok, ne legyetek olyanok, mint a képmutatók, akik szeretnek a
+> zsinagógákban és az utcasarkokon megállva imádkozni, hogy lássák őket az
+> emberek. Bizony, mondom néktek: megkapták jutalmukat.
+>
+> Te pedig amikor imádkozol, menj be a belső szobádba, és ajtódat bezárva
+> imádkozzál Atyádhoz titokban; Atyád pedig, aki látja, amit titokban teszel,
+> megfizet neked.”
+>
+> „Amikor pedig imádkoztok, ne szaporítsátok a szót, mint a pogányok, akik azt
+> gondolják, hogy bőbeszédűségükért hallgattatnak meg.
+>
+> Ne legyetek tehát hozzájuk hasonlók, mert tudja a ti Atyátok, mire van
+> szükségetek, mielőtt még kérnétek tőle.”
+
+_[Rom.1.10-12]_
+
+> és szüntelenül kérem imádságaimban, hogy Isten akaratából egyszer már el
+> tudjak menni hozzátok.
+>
+> Mert szeretnélek látni benneteket, hogy megerősítésetekre valamilyen lelki
+> ajándékot adjak nektek,
+>
+> vagyis, hogy együtt bátorodjunk meg közöttetek egymás hite által, a tietek
+> és az enyém által.
+
+_[1Tim.4.7-8]_
+
+> ...gyakorold magad a kegyességben,
+>
+> mert a test sanyargatásának kevés a haszna, a kegyesség pedig mindenre
+> hasznos, mert megvan benne a jelen és a jövendő élet ígérete.
 
 ## További idézetek
 
