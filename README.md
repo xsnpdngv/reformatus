@@ -107,14 +107,17 @@ _[Mt.22.37-40]_
 _[Mt.6.9-13]_
 
 > Mi Atyánk, aki a mennyekben vagy, szenteltessék meg a te neved,
+>
 > jöjjön el a te országod, legyen meg a te akaratod, amint a mennyben,
 > úgy a földön is;
 >
-> mindennapi kenyerünket add meg nékünk ma, és bocsásd meg vétkeinket,
-> miképpen mi is megbocsátunk az ellenünk vétkezőknek;
+> mindennapi kenyerünket add meg nékünk ma,
 >
-> és ne vigy minket kísértésbe, de szabadíts meg a gonosztól; mert
-> tied az ország, a hatalom és a dicsőség mindörökké. Ámen.
+> és bocsásd meg vétkeinket, miképpen mi is megbocsátunk az ellenünk
+> vétkezőknek;
+>
+> és ne vigy minket kísértésbe, de szabadíts meg a gonosztól; mert tied az
+> ország, a hatalom és a dicsőség mindörökké. Ámen.
 
 
 ## 9. Mi tenéked életedben és halálodban egyetlenegy vigasztalásod?
@@ -124,17 +127,12 @@ _[HK.1]_
 > Az, hogy testestől-lelkestől, mind életemben, mind halálomban, nem a
 > magamé, hanem az én hűséges Megváltómnak, Jézus Krisztusnak a tulajdona
 > vagyok,
->
 > - aki az Ő drága vérével minden bűnömért tökéletesen eleget tett
 >   s engem az ördögnek minden hatalmából megszabadított.
->
 > - és úgy megőriz, hogy mennyei Atyámnak akarata nélkül egy hajszál
 >   sem eshetik le fejemről,
->
 > - sőt inkább minden az én üdvősségemre kell, hogy szolgáljon.
->
 > - Ezért Szentlelke által is engem az örök élet felől biztosít
->
 > - és szív szerint késszé és hajlandóvá tesz arra, hogy ezentúl Őneki éljek.
 
 
