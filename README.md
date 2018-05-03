@@ -191,7 +191,7 @@ Hogy az Istentől elszakadt, magára maradt, sok nyomorúságával küszködő e
 újra személyes kapcsolatba kerüljön Istenével a hit által. Hogy az őt
 megszólító Istenben felismerje mennyei Atyját, aki után szíve mélyén vágyódik,
 aki feltétel nélkül, mindent megelőzően, kezdeményezően szereti őt, akinek a
-kijelentése, Igéje, beszéde nem csak fontos információkat jelent szmámára,
+kijelentése, Igéje, beszéde nem csak fontos információkat jelent számára,
 hanem magát az életet.
 
 _[Jn.6.66]_
@@ -305,8 +305,8 @@ gyermekévé akar lenni, a jóknak is, a szelíd, becsületes, derék embereknek
 
 _[RH:45,50.o.]_
 
-Istern öröktől fogva való, és az egész világ az Ő teremtő akaratára állott
-elő. A teremtés történetés Mózes 1. könyve tartalmazza részletesen. Mindent a
+Isten öröktől fogva való, és az egész világ az Ő teremtő akaratára állott
+elő. A teremtés történetét Mózes 1. könyve tartalmazza részletesen. Mindent a
 semmiből teremtett, tehát nem valami meglévőből, mert rajta kívül még nem volt
 semmi. Ez fejezi ki a leghatározottabban azt az igazságot, hogy a világ nem
 azonos Istennel, de önállósága sincs vele szemben, s az anyag sem Istennel
