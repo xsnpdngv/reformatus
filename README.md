@@ -173,7 +173,7 @@ A reformátori tanítás Isten Igéjének három alakját különbözteti meg:
 
 1. Isten önmagát és a világgal való szándékát legteljesebben Jézus Krisztus
    személyében és munkájában jelentette ki. Isten kijelentése tehát Jézus. Ő a
-   kijelentett vagy testté lett Ige _Jn.1.1-14_.
+   kijelentett vagy testté lett Ige _[Jn.1.1-14]_.
 
 2. Azt azonban, amit Isten az emberért tett, írásba is foglaltatta. Isten
    kijelentésének írott okmánya a Szentírás, a Biblia: az írott Ige.
@@ -570,7 +570,7 @@ hogy komolyan vegyük: Isten bocsánata ránk is érvényes. Átalakítja
 gondolkodásunkat, magunktól elfordít és odafordít a másik emberhez. Megtanít
 imádkozni, megtanít örülni Isten ajándékainak és magasztalni Őt nagy
 tetteiért. Szabaddá tesz bűneinktől és rossz szokásainktól. Megszabadít a
-félelemtől, bátorságot ad ahhoz, , hogy másoknak is beszéljünk Isten megváltó
+félelemtől, bátorságot ad ahhoz, hogy másoknak is beszéljünk Isten megváltó
 szeretetéről.
 
 Egy bizonyos úton akar vezetni minket: a bűnből vissza Istenhez, magunkra
@@ -729,7 +729,7 @@ _[Jn.6.54]_
 _[RH:163-164.o.]_
 
 A hívők együtt imádják Istent, szavát meghallgassák, és annak engedelmeskedve,
-bűneiktől megtisztulva indlujanak tovább másoknak szolgálni. Az istentisztelet
+bűneiktől megtisztulva induljanak tovább másoknak szolgálni. Az istentisztelet
 az élő Istennel való találkozás különösen fontos alkalma. Istent tisztelni
 bárhol és bármikor lehet, de amikor a többi hívővel együtt van és kifejezetten
 azt várja, hogy az Igén keresztül Isten szólítsa meg, azt nem pótolja semmi.
