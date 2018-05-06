@@ -417,8 +417,8 @@ _[Fil.2.6-8]_
 > hasonlóvá, és magatartásában is embernek bizonyult; megalázta magát, és
 > engedelmessé lett mindhalálig, mégpedig a kereszthalálig.
 
-**Jézus** héber név, azt jelent: Jahve (Isten, az Úr) segítsége, Szabadító. Isten
-parancsolja Józsefnek, hogy ha megszületik a fia, így nevezzék.
+**Jézus** - héber név, azt jelent: Jahve (Isten, az Úr) segítsége, Szabadító.
+Isten parancsolja Józsefnek, hogy ha megszületik a fia, így nevezzék.
 
 _[Mt.1.21]_
 
