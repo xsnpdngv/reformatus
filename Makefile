@@ -1,5 +1,11 @@
+# Packages needed to be installed prior to document conversion:
+# sudo apt-get install        \
+#   pandoc                    \
+#   texlive-latex-recommended \
+#   texlive-fonts-recommended
+
 TARGET=Konfirmacio_kerdesek-valaszok
-GEN_FLAGS=-V lang=hun
+GEN_FLAGS=-V lang=hu
 PDF_FLAGS=-V documentclass=report --toc
 
 all: $(TARGET).pdf $(TARGET).epub

@@ -127,12 +127,17 @@ _[HK.1]_
 > Az, hogy testestől-lelkestől, mind életemben, mind halálomban, nem a
 > magamé, hanem az én hűséges Megváltómnak, Jézus Krisztusnak a tulajdona
 > vagyok,
+>
 > - aki az Ő drága vérével minden bűnömért tökéletesen eleget tett
 >   s engem az ördögnek minden hatalmából megszabadított.
+>
 > - és úgy megőriz, hogy mennyei Atyámnak akarata nélkül egy hajszál
 >   sem eshetik le fejemről,
+>
 > - sőt inkább minden az én üdvősségemre kell, hogy szolgáljon.
+>
 > - Ezért Szentlelke által is engem az örök élet felől biztosít
+>
 > - és szív szerint késszé és hajlandóvá tesz arra, hogy ezentúl Őneki éljek.
 
 
@@ -141,9 +146,12 @@ _[HK.1]_
 _[HK.2]_
 
 > Hármat:
+>
 > - először, hogy mily nagy az én bűnöm és nyomorúságom;
+>
 > - másodszor, hogy mily módon szabadít meg Isten minden bűnömből és
 >   nyomorúságomból;
+>
 > - harmadszor, hogy milyen hálával tartozom neki e megszabadításért.
 
 
@@ -530,10 +538,13 @@ egyszer mindnyájunkat elszámoltat Krisztus.
 
 Isten szeretete nem azt jelenti, hogy a bűnt bűntetlenül hagyja, hanem azt,
 hogy a megbánt bűnt megbocsátja. Ezt az ítéletet azonban az a Jézus Krisztus
-hajtja végre, _[HK.52]_ "Aki előbb érettem Isten ítélőszéke elé állt, és rólam
-minden kárhoztatást elvett." Aki ezt igazán hiszi, aki bűneinek bocsánatát
-tőle elfogadta, az _[Jn.5.24]_ "...ítéletre sem megy, hanem átment a halálból
-az életbe."
+hajtja végre, _[HK.52]_
+
+> Aki előbb érettem Isten ítélőszéke elé állt, és rólam minden kárhoztatást elvett.
+
+Aki ezt igazán hiszi, aki bűneinek bocsánatát tőle elfogadta, az _[Jn.5.24]_
+
+> ...ítéletre sem megy, hanem átment a halálból az életbe.
 
 
 ## 24. Kicsoda a Szentlélek?
@@ -720,7 +731,7 @@ _[Jn.6.54]_
    elveszett bűnösök vagyunk, de Krisztus érdeméért mindnyájunkat szeretettel
    visszafogad az Atya gyermekeivé.
 
-4. Túlmutat önmagán arra a nagy "vacsorára", arra a végleges, zavartalan,
+4. Túlmutat önmagán arra a nagy vacsorára, arra a végleges, zavartalan,
    teljes boldog együttlétre, ami a mennyben várja a benne hívőket.
 
 
